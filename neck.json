@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Tri-Color Necklace",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 25,
+            "meleeDmg": 25,
+            "rangedDmg": 25,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        }
+    },
+    {
+        "name": "Peapod Necklace",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkspeed": 1,
+            "height": 0,
+            "jumpPower": 20,
+            "ammoReturn": 0
+        }
+    },
+    {
+        "name": "Blue Eye Amulet",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 20,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 20,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        }
+    }
+]
