@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Void Monster Torso",
+        "stats": {
+            "armor": 30,
+            "magicDmg": 30,
+            "meleeDmg": 30,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        }
+    },
+    {
+        "name": "Platebody of a Forgotten Life",
+        "stats": {
+            "armor": 38,
+            "magicDmg": 65,
+            "meleeDmg": 65,
+            "rangedDmg": 65,
+            "hpRegen": 0,
+            "endurance": 11,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        }
+    },
+    {
+        "name": "Platebody of the Earth King Regalia",
+        "stats": {
+            "armor": 32,
+            "magicDmg": 80,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        }
+    }
+]
