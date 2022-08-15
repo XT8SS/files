@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Outlaw's Cap",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 50,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        },
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/1/1e/Outlaw%27s_Cap.png"
+    },
+    {
+        "name": "Helm of the Skater",
+        "stats": {
+            "armor": 16,
+            "magicDmg": 65,
+            "meleeDmg": 65,
+            "rangedDmg": 65,
+            "hpRegen": 0,
+            "endurance": 11,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        },
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/e/e4/Helm_of_the_Skater_Large.png"
+    },
+    {
+        "name": "Pettyganger's Parade Mask",
+        "stats": {
+            "armor": 5,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkspeed": 2,
+            "height": 0,
+            "jumpPower": 5,
+            "ammoReturn": 0
+        },
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/6/63/Pettyganger%27s_Parade_Mask_Large.png"
+    }
+]

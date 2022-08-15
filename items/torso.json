@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Void Monster Torso",
+        "stats": {
+            "armor": 30,
+            "magicDmg": 30,
+            "meleeDmg": 30,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        },
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/0/0b/VoidMonsterTorso.png"
+    },
+    {
+        "name": "Platebody of a Forgotten Life",
+        "stats": {
+            "armor": 38,
+            "magicDmg": 65,
+            "meleeDmg": 65,
+            "rangedDmg": 65,
+            "hpRegen": 0,
+            "endurance": 11,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        },
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/3/3e/Platebody_of_a_Forgotten_Life_Large.png"
+    },
+    {
+        "name": "Platebody of the Earth King Regalia",
+        "stats": {
+            "armor": 32,
+            "magicDmg": 80,
+            "meleeDmg": 0,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        },
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/6/6c/The_Earth_King_Regalia_Platebody_Large.png"
+    }
+]
