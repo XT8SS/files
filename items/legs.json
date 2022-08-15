@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Pantry Leech Platelegs",
+        "stats": {
+            "armor": 26,
+            "magicDmg": 55,
+            "meleeDmg": 55,
+            "rangedDmg": 55,
+            "hpRegen": 5,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        },
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/2/28/PLL.png",
+        "link": "https://fantastic-frontier-roblox.fandom.com/wiki/Pantry_Leech_Set#Platelegs"
+    },
+    {
+        "name": "Platelegs of a Forgotten Life",
+        "stats": {
+            "armor": 30,
+            "magicDmg": 65,
+            "meleeDmg": 65,
+            "rangedDmg": 65,
+            "hpRegen": 0,
+            "endurance": 11,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        },
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/1/1d/Platelegs_of_a_Forgotten_Life_Large.png",
+        "link": "https://fantastic-frontier-roblox.fandom.com/wiki/Forgotten_Life_Set#Platelegs"
+    },
+    {
+        "name": "Adventurer's Guard",
+        "stats": {
+            "armor": 23,
+            "magicDmg": 0,
+            "meleeDmg": 75,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkspeed": 2,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        },
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/8/82/Adventurer%27s_Guard.png",
+        "link": "https://fantastic-frontier-roblox.fandom.com/wiki/Adventurer's_Armor_Set#Guard"
+    }
+]

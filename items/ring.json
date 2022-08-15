@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Scorched Soul's Ring",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 50,
+            "meleeDmg": 50,
+            "rangedDmg": 0,
+            "hpRegen": -3.2,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        },
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/0/01/Scorched_Soul%27s_Ring.png",
+        "link": "https://fantastic-frontier-roblox.fandom.com/wiki/Scorched_Soul's_Ring"
+    },
+    {
+        "name": "Hightower Ring",
+        "stats": {
+            "armor": 3,
+            "magicDmg": 0,
+            "meleeDmg": 0,
+            "rangedDmg": 30,
+            "hpRegen": 0,
+            "endurance": 0,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        },
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/0/07/Hightower_Ring.png",
+        "link": "https://fantastic-frontier-roblox.fandom.com/wiki/Hightower_Ring"
+    },
+    {
+        "name": "Ring of Power",
+        "stats": {
+            "armor": 0,
+            "magicDmg": 0,
+            "meleeDmg": 35,
+            "rangedDmg": 0,
+            "hpRegen": 0,
+            "endurance": 6,
+            "sightRange": 0,
+            "walkspeed": 0,
+            "height": 0,
+            "jumpPower": 0,
+            "ammoReturn": 0
+        },
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/e/e0/Ring_of_Power.png",
+        "link": "https://fantastic-frontier-roblox.fandom.com/wiki/Ring_of_Power"
+    }
+]
