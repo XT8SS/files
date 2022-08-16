@@ -36,21 +36,21 @@
         "link": "https://fantastic-frontier-roblox.fandom.com/wiki/Forgotten_Life_Set#Skater_Helm"
     },
     {
-        "name": "Pettyganger's Parade Mask",
+        "name": "Roadblocks Head",
         "stats": {
-            "armor": 5,
-            "magicDmg": 0,
-            "meleeDmg": 0,
-            "rangedDmg": 0,
-            "hpRegen": 0,
-            "endurance": 0,
-            "sightRange": 0,
-            "walkspeed": 2,
+            "armor": 3,
+            "magicDmg": 3,
+            "meleeDmg": 3,
+            "rangedDmg": 3,
+            "hpRegen": 3,
+            "endurance": 3,
+            "sightRange": 3,
+            "walkspeed": 3,
             "height": 0,
-            "jumpPower": 5,
-            "ammoReturn": 0
+            "jumpPower": 3,
+            "ammoReturn": 3
         },
-        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/6/63/Pettyganger%27s_Parade_Mask_Large.png",
-        "link": "https://fantastic-frontier-roblox.fandom.com/wiki/Pettyganger's_Parade_Set#Mask"
+        "image": "https://static.wikia.nocookie.net/fantastic-frontier-roblox/images/7/76/RoadblocksHead.png",
+        "link": "https://fantastic-frontier-roblox.fandom.com/wiki/Roadblocks_Set#Head"
     }
 ]
